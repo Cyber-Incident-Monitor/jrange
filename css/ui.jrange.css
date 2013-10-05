@@ -1,9 +1,10 @@
-.date-range-selected > .ui-state-active {
-	background: none;
-	background-color: lightsteelblue;
-}
-
+.date-range-selected > .ui-state-active,
 .date-range-selected > .ui-state-default {
 	background: none;
-	background-color: #c9daef;
+	background-color: #B0C4DE;
+}
+
+.date-range-selected > .ui-state-highlight {
+	background: none;
+	background-color: #C9DAEF;
 }
